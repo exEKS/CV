@@ -1,2 +1,0 @@
-# CV
-repository for CV
